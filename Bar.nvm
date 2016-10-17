@@ -1,0 +1,6 @@
+;Image=Bar.gif
+rect Index.html 522,0 628,29
+rect Sources.html 397,0 521,29
+rect #Race_Cars 259,0 396,29
+rect #Sedans 109,0 258,29
+rect #Classics 14,0 108,29

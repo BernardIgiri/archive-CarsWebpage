@@ -1,0 +1,4 @@
+;Image=Bar2.gif
+rect #Sedans 102,0 146,14
+rect #Race_Cars 42,0 102,14
+rect #Classics 0,0 42,14
